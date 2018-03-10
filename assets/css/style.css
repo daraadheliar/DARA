@@ -1,0 +1,31 @@
+body{
+	font-family: 'Concert One', cursive;
+	background-color: antiquewhite;
+}
+
+#bg-small {
+	margin-left: 300px;
+	margin-bottom: auto;
+}
+.img-circle {
+    border-radius: 70%;
+	width:50px;
+}
+
+#greeting{
+	margin-top: 45px;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h6{
+	font-size: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.table{
+	color: #555;
+}
