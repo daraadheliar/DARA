@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    margin: auto;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: table;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Concert One', cursive;
+}
+
+#box {
+    width: 520px;
+    height: 260px;
+    background: #FFFFFF;
+    margin: 150px auto 100px auto;
+    border: 3px solid #660033;
+    color:#660033;
+
+}
+
+#header {
+    height: 35px;
+    width: 520px;
+    text-align: center;
+    font-size: 20pt;
+    padding-top:20px;
+}
+
+#form {
+    height: 200px;
+    width: 520px;
+}
+
+.login {
+	font-family: 'Concert One', cursive;
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 2px solid #663366;
+    padding-left:10px;
+    color:#660033;
+}
+
+.login:focus {
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    padding-left:10px;
+    color:#660066;
+    outline: none;
+    box-shadow: 0 0 20px #FF99FF;
+}
+
+#tombol {
+	font-family: 'Concert One', cursive;
+    width: 150px;
+    height:35px;
+    margin-top:10px;
+    margin-left: 185px;
+    background: #660033;
+    border:none;
+    color:#fff;
+    font-size: 14pt;
+    outline:none;
+}
